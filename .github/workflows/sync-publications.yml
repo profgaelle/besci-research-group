@@ -1,0 +1,54 @@
+name: Sync Publications from Main Site
+
+on:
+  # Run daily at midnight
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Run when this workflow file is updated
+  push:
+    paths:
+      - '.github/workflows/sync-publications.yml'
+
+jobs:
+  sync-publications:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout BeSCI repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Download publications from main site
+        run: |
+          echo "Fetching publications from profgaelle-website-2024..."
+          curl -f https://raw.githubusercontent.com/profgaelle/profgaelle-website-2024/main/content/publications.md \
+            -o content/publications.md || echo "Failed to fetch publications"
+      
+      - name: Check if publications changed
+        id: check_changes
+        run: |
+          if git diff --quiet content/publications.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes to publications"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Publications updated"
+          fi
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/publications.md
+          git commit -m "Sync publications from main site [automated]"
+          git push
+      
+      - name: No changes
+        if: steps.check_changes.outputs.changed == 'false'
+        run: echo "Publications are already up to date"
