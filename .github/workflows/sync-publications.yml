@@ -27,7 +27,7 @@ jobs:
         run: |
           echo "Fetching publications from profgaelle-website-2024..."
           curl -f https://raw.githubusercontent.com/profgaelle/profgaelle-website-2024/main/content/publications.md \
-            -o content/publications.md || echo "Failed to fetch publications"
+            -o content/publications/index.md || echo "Failed to fetch publications"
       
       - name: Check if publications changed
         id: check_changes
