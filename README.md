@@ -90,57 +90,6 @@ besci-hugo/
 └── README.md            # This file
 ```
 
-## First-Time Setup (For Gaelle)
-
-### 1. Add the Hugo Goa Theme
-
-The site uses the same theme as profgaelle.com. Add it as a Git submodule:
-
-```bash
-cd besci-hugo
-git submodule add https://github.com/shenoybr/hugo-goa.git themes/hugo-goa
-git submodule update --init --recursive
-```
-
-### 2. Create GitHub Repository
-
-1. Go to https://github.com and create a new repository
-2. Name it: `besci-research-group`
-3. Make it **Public** (for free Netlify)
-4. Don't initialize with README
-
-### 3. Push Files to GitHub
-
-```bash
-cd besci-hugo
-git init
-git add .
-git commit -m "Initial commit - Hugo BeSCI site"
-git branch -M main
-git remote add origin [YOUR_REPOSITORY_URL]
-git push -u origin main
-```
-
-### 4. Deploy to Netlify
-
-1. Go to https://app.netlify.com
-2. Click "Add new site" → "Import an existing project"
-3. Choose "Deploy with GitHub"
-4. Select your `besci-research-group` repository
-5. Build settings should auto-detect:
-   - **Build command**: `hugo --gc --minify`
-   - **Publish directory**: `public`
-6. Click "Deploy site"
-
-### 5. Set Up Custom Domain
-
-In Netlify:
-1. Go to site → "Domain settings"
-2. Click "Add custom domain"
-3. Enter: `besci.profgaelle.com`
-4. In your domain registrar, the CNAME should already be set from before
-5. Done! HTTPS will enable automatically
-
 ### 6. Add Team Members
 
 In GitHub repository → Settings → Collaborators:
