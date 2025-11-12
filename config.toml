@@ -46,6 +46,12 @@ weight = 300
 url = "team/"
 
 [[menu.main]]
+name = "Publications"
+identifier = "publications"
+weight = 350
+url = "publications/"
+
+[[menu.main]]
 name = "Contact"
 identifier = "contact"
 weight = 400
