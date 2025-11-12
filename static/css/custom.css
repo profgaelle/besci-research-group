@@ -1,0 +1,113 @@
+/* Timeline Styles */
+.timeline-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.timeline-title {
+  font-family: 'Roboto Slab', serif;
+  font-weight: normal;
+  color: #18181B;
+  margin-bottom: 2rem;
+}
+
+.transfer-requirements {
+  background-color: rgb(250, 250, 250);
+  border-left: 4px solid #B91C1C;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.25rem;
+}
+
+.transfer-content {
+  font-size: 0.875rem;
+  color: #71717A;
+  font-weight: 300;
+}
+
+.phase-title {
+  font-family: 'Roboto Slab', serif;
+  font-weight: normal;
+  color: #18181B;
+  margin: 2rem 0 1rem;
+}
+
+.quarter-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .quarter-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.quarter {
+  background-color: rgb(250, 250, 250);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.quarter.highlight {
+  ring: 2px solid #B91C1C;
+}
+
+.quarter h4 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: normal;
+  color: #18181B;
+  margin-bottom: 0.5rem;
+}
+
+.quarter ul {
+  font-size: 0.875rem;
+  color: #71717A;
+  font-weight: 300;
+}
+
+.requirements-title {
+  font-family: 'Roboto Slab', serif;
+  font-weight: normal;
+  color: #18181B;
+  margin: 2rem 0 1rem;
+}
+
+.continuous-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1rem;
+  background-color: rgb(250, 250, 250);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .continuous-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.requirement {
+  background-color: white;
+  padding: 0.75rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.requirement h4 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: normal;
+  color: #18181B;
+}
+
+.requirement p {
+  font-size: 0.875rem;
+  color: #71717A;
+  font-weight: 300;
+}

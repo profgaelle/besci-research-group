@@ -1,0 +1,57 @@
+baseURL = "https://besci.profgaelle.com/"
+languageCode = "en-gb"
+title = "BeSCI Research Group | Behavioural Science & Creative Insights"
+theme = "hugo-goa"
+
+[params]
+author = "BeSCI Research Group"
+intro = "Behavioural Science & Creative Insights"
+description = "Research group at Kingston Business School focusing on decision-making, uncertainty judgements and creative thinking"
+
+# Use same fonts and styling as main site
+customCSS = ["/css/custom.css"]
+
+## Site Meta Settings
+[params.meta]
+description = "BeSCI Research Group at Kingston Business School. Research on decision-making, creative cognition, and behavioural science."
+keywords = "behavioural science, decision making, creative cognition, research group, Kingston Business School"
+
+## Social (optional - you can add links later if needed)
+[params.social]
+email = "g.vallee-tourangeau@kingston.ac.uk?subject=[BeSCI]%20"
+
+## Extras
+[params.extra]
+copyright = "© 2025. [BeSCI Research Group](https://besci.profgaelle.com). [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/)."
+poweredby = false
+highlightjs = false
+
+## Main Menu
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[menu.main]]
+name = "Research"
+identifier = "research"
+weight = 200
+url = "research/"
+
+[[menu.main]]
+name = "Team"
+identifier = "team"
+weight = 300
+url = "team/"
+
+[[menu.main]]
+name = "Contact"
+identifier = "contact"
+weight = 400
+url = "contact/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
