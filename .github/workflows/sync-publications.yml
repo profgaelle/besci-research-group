@@ -26,7 +26,7 @@ jobs:
       - name: Download publications from main site
         run: |
           echo "Fetching publications from profgaelle-website-2024..."
-          curl -f https://raw.githubusercontent.com/profgaelle/profgaelle-website-2024/main/content/publications/index.md \
+          curl -f https://raw.githubusercontent.com/profgaelle/profgaelle-website-2024/blob/main/content/publications/index.md \
             -o content/publications/index.md || echo "Failed to fetch publications"
       
       - name: Check if publications changed
