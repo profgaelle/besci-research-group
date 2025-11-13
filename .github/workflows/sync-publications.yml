@@ -13,8 +13,8 @@ on:
     paths:
       - '.github/workflows/sync-publications.yml'
       
-  permissions:
-    contents: write
+permissions:
+  contents: write
 
 jobs:
   sync-publications:
