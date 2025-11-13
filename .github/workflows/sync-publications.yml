@@ -12,6 +12,9 @@ on:
   push:
     paths:
       - '.github/workflows/sync-publications.yml'
+      
+  permissions:
+    contents: write
 
 jobs:
   sync-publications:
