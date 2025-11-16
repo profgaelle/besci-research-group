@@ -8,6 +8,7 @@
 appearance:
   theme_day: earth
   font_size: L
+  font: native
   color: gallery
 
 
