@@ -7,8 +7,6 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
-# font: minimal
   font_size: L
   color: gallery
 
@@ -118,8 +116,3 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
-
-# Sharing
-
-sharing:
-    enable: false
