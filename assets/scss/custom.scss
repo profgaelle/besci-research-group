@@ -1,0 +1,249 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=Work+Sans:wght@300;400;500;600&display=swap');
+
+/* Color Palette - "Notebook, Coffee, Pencil" (2023) */
+:root {
+  --coral-pink: #F87171;
+  --charcoal: #374151;
+  --coffee-brown: #92400E;
+  --bright-yellow: #FBBF24;
+}
+
+/* ========== BASE STYLES ========== */
+
+body {
+  font-family: 'Work Sans', -apple-system, sans-serif;
+  font-weight: 300;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--charcoal);
+  background: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 400;
+  color: var(--charcoal);
+  line-height: 1.3;
+}
+
+h1 { font-size: 1.8rem; font-weight: 300; }
+h2 { font-size: 1.6rem; margin-top: 2.5rem; }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.1rem; font-weight: 500; }
+
+.hero-title {
+  font-size: 2rem !important;
+  font-weight: 300 !important;
+}
+
+.hero-lead,
+.subtitle {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.lead {
+  font-size: 1.15rem;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+/* ========== NAVIGATION ========== */
+
+.navbar {
+  font-family: 'Work Sans', -apple-system, sans-serif;
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: none;
+  background: #ffffff;
+  box-shadow: none;
+}
+
+.navbar-brand {
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0.02em;
+  color: var(--charcoal) !important;
+}
+
+.navbar-nav .nav-link {
+  padding: 0.5rem 1rem;
+  color: var(--charcoal);
+}
+
+.navbar-nav .nav-link:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--coral-pink);
+  }
+
+/* ========== LINKS ========== */
+
+a {
+  color: var(--charcoal);
+  text-decoration: none;
+  border: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--coral-pink);
+}
+
+/* ========== BUTTONS ========== */
+
+.btn-primary,
+.btn-outline-primary,
+.btn-links .btn {
+  background: transparent !important;
+  border: 1px solid #e0e0e0 !important;
+  color: var(--charcoal) !important;
+  font-size: 0.8rem;
+  padding: 4px 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.btn-primary:hover,
+.btn-outline-primary:hover,
+.btn-links .btn:hover {
+  background: var(--coral-pink) !important;
+  border-color: var(--coral-pink) !important;
+  color: #ffffff !important;
+}
+
+/* ========== SECTIONS ========== */
+
+.home-section {
+  padding: 90px 0;
+}
+
+.home-section:nth-child(even) {
+  background: #fafafa;
+}
+
+.share-box {
+  display: none !important;
+}
+
+/* ========== PUBLICATIONS ========== */
+
+.card-simple {
+  background: #ffffff;
+  box-shadow: none !important;
+  border: none !important;
+  border-bottom: 1px solid #f0f0f0;
+  border-radius: 0;
+  margin-top: 30px;
+  padding: 20px 0;
+}
+
+.card-simple:first-of-type {
+  margin-top: 0;
+  border-top: 1px solid #f0f0f0;
+}
+
+/* All publication text in Garamond */
+.pub-list-item,
+.view-citation {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Publication title link */
+.pub-list-item > a,
+.view-citation > a {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 0.9rem !important;
+  font-weight: 400;
+  color: var(--charcoal) !important;
+  border: none !important;
+}
+
+.pub-list-item > a:hover,
+.view-citation > a:hover {
+  color: var(--coral-pink) !important;
+}
+
+/* Author names and metadata - all Garamond */
+.article-metadata,
+.li-cite-author {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 0.9rem !important;
+  color: #6c757d !important;
+  margin-bottom: 0px;
+}
+
+.article-metadata a,
+.li-cite-author a {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  color: #6c757d !important;
+  border: none !important;
+}
+
+.article-metadata a:hover,
+.li-cite-author a:hover {
+  color: var(--coral-pink) !important;
+}
+
+/* Journal name (italicized) */
+.pub-list-item em {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+}
+
+/* For other article title formats */
+.article-title,
+.card-simple .article-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 0.9rem !important;
+  font-weight: 400;
+  line-height: 1.4;
+  margin-bottom: 0.2rem;
+}
+
+.article-title a {
+  color: var(--charcoal) !important;
+  border: none !important;
+}
+
+.article-title a:hover {
+  color: var(--coral-pink) !important;
+}
+
+/* Abstract text */
+.pub-list-item .pub-abstract {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #6c757d;
+  margin-top: 10px;
+}
+
+/* Spacing between publications */
+.media.stream-item:not(:last-child) {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+/* ========== ACCENTS ========== */
+
+.current-projects li::marker {
+  color: var(--coral-pink);
+}
+
+.highlight, mark {
+  background: var(--bright-yellow);
+  padding: 0.1em 0.3em;
+}
+
+.card {
+  border-color: #e5e5e5;
+  box-shadow: none;
+}

@@ -8,8 +8,10 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
+# font: minimal
   font_size: L
+  color: gallery
+
 
 # SEO
 
@@ -18,8 +20,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'BeSCI Research Group at Kingston Business School studies creative cognition and decision-making. We investigate the drivers and barriers of creative behavior.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Kingston University. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -110,9 +112,14 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-
+  
 # Citation style
 
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Sharing
+
+sharing:
+    enable: false
