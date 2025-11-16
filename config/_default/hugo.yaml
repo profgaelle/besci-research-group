@@ -16,6 +16,14 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
+## BUILD
+############################
+
+build:
+  writeStats: true
+  noJSConfigInAssets: false
+
+############################
 ## ADVANCED
 ############################
 
