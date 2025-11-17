@@ -10,23 +10,23 @@ sections:
       title: Contact
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+      email: g.vallee-tourangeau@kingston.ac.uk
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Kingston Business School, Kingston Hill
+        city: Kingston-upon-Thames
+        region: 
+        postcode: 'KT2 7LB'
+        country: United Kingdom
+        country_code: UK
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '51.4290'
+        longitude: '0.2649'
+      directions: Enter Kingston Business School Building and take the stairs on the right to Office 3012 on Floor 3
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - 'Wednesday 10:00 to 11:00 (online)'
+        - 'Thursday 16:00 to 17:00'
+        - 'Friday 13:00 to 14:00'
+      appointment_url: 'https://outlook.office.com/bookwithme/user/e55f508cc2fa4dc9b7d04a27f5c2b391@kingston.ac.uk/meetingtype/T-Pb3U5gl0So-Uqhm5lhhA2?anonymous&ismsaljsauthenabled&ep=mLinkFromTile'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
