@@ -17,10 +17,10 @@ sections:
         region: 
         postcode: 'KT2 7LB'
         country: United Kingdom
-        country_code: UK
+        country_code: GB
       coordinates:
-        latitude: '-0.1555'
-        longitude: '51.2544' 
+        latitude: '51.2544'
+        longitude: '-0.1555' 
       directions: Enter Kingston Business School Building and take the stairs on the right to Office 3012 on Floor 3
       office_hours:
         - 'Wednesday 10:00 to 11:00 (online)'
