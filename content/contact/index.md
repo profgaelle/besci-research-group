@@ -19,8 +19,8 @@ sections:
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '0.2649'
-        longitude: '51.4290' 
+        latitude: '-0.1555'
+        longitude: '51.2544' 
       directions: Enter Kingston Business School Building and take the stairs on the right to Office 3012 on Floor 3
       office_hours:
         - 'Wednesday 10:00 to 11:00 (online)'
