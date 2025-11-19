@@ -18,12 +18,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include XXX.
+bio: My research explores creative cognition, sustainable decision-making, and behavioural change in creative, organisational and health contexts.
 
 interests:
-  - XXX
-  - ZZZ
-  - YYY
+  - Creative Cognition & Human-AI Collaboration
+  - Decision-Making & Behavioural Science
+  - Organisational Creativity & Behaviour Change
 
 education:
   courses:
@@ -42,6 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-1080-4443
   - icon: envelope
     icon_pack: fas
     link: 'mailto:g.vallee-tourangeau@kingston.ac.uk'
