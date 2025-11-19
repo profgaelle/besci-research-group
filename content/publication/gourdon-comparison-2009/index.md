@@ -17,7 +17,7 @@ draft: false
 
 # Author notes (optional)
 author_notes:
-- "MRes graduate"
+# - "MRes graduate"
 
 
 # Featured image

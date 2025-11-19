@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Frédéric Vallée-Tourangeau
 - Sune Vork Steffensen
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Miroslav Sirota
 tags: []
 categories: []

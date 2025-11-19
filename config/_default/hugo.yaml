@@ -4,7 +4,18 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: BeSCI Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://besci.profgaelle/' # Website URL
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+
 
 ############################
 ## LANGUAGE

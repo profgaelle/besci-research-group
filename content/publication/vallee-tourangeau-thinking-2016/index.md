@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Frédéric Vallée-Tourangeau
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2016-01-01'

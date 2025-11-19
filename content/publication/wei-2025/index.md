@@ -6,7 +6,7 @@ summary: ''
 authors:
 - Qi Wei
 - Beatrice Van der Heijden
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2025-01-01'

@@ -6,7 +6,7 @@ title: 'Cognition Beyond the Classical Information Processing Model: Cognitive I
 subtitle: ''
 summary: ''
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags:
 - '"systm"'

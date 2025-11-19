@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Niyat Henok
 - Frédéric Vallée-Tourangeau
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2020-02-01'
@@ -17,7 +17,7 @@ draft: false
 
 # Author notes (optional)
 author_notes:
-- "PhD graduate"
+# - "PhD graduate"
 
 
 # Featured image

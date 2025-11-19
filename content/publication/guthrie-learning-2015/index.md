@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Lisa G. Guthrie
 - Frédéric Vallée-Tourangeau
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Chelsea Howard
 tags:
 - '"PROBLEM solving"'

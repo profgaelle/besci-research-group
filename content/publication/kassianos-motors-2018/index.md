@@ -15,7 +15,7 @@ authors:
 - Oana Falup-Pecurariu
 - Angus Thomson
 - Christina Klein
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2018-10-01'

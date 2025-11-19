@@ -8,7 +8,7 @@ authors:
 - Frédéric Vallée-Tourangeau
 - Wendy Ross
 - Renata Ruffatto Rech
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2020-09-01'

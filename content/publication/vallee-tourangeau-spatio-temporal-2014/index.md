@@ -5,7 +5,7 @@ title: The spatio-temporal dynamics of systemic thinking
 subtitle: ''
 summary: ''
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags:
 - '"systm"'

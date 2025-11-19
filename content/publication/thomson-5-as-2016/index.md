@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Angus Thomson
 - Karis Robinson
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"hcwvax"'
 categories: []
@@ -19,7 +19,7 @@ draft: false
 # Author notes (optional)
 author_notes:
 - 
-- "PhD graduate"
+# - "PhD graduate"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

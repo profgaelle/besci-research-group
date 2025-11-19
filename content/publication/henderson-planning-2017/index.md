@@ -17,7 +17,7 @@ draft: false
 
 # Author notes (optional)
 author_notes:
-- "MSc graduate"
+# # - "MSc graduate"
 
 
 # Featured image

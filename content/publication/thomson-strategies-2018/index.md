@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Angus Thomson
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Suzanne Suggs
 tags: []
 categories: []

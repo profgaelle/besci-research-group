@@ -6,7 +6,7 @@ title: 'Motors of influenza vaccination uptake and vaccination advocacy in healt
 subtitle: ''
 summary: ''
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Marianne Promberger
 - Karis Moon
 - Ana Wheelock
@@ -23,9 +23,9 @@ draft: false
 # Author notes (optional)
 author_notes:
 -
-- "Post-doc"
-- "PhD graduate"
-- "Post-doc"
+# - "Post-doc"
+# - "PhD graduate"
+# - "Post-doc"
 
 
 # Featured image

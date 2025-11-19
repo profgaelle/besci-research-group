@@ -7,9 +7,8 @@ root_dir = "."  # current directory
 # new_pattern = "publication_types: ['paper-conference']"
 # old_pattern = "publication_types:\n- '6'"
 # new_pattern = "publication_types: ['chapter']"
-old_pattern = "- admin"
-new_pattern = "- Gaëlle Vallée-Tourangeau"
-
+old_pattern = '- "MRes Graduate"'
+new_pattern = '# - "MRes Graduate"'
 
 
 changed_files = []

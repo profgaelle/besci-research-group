@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Anine Riege
 - Amélie Gourdon-Kanhukamwe
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2021-11-01'
@@ -16,10 +16,7 @@ featured: false
 draft: false
 
 # Author notes (optional)
-author_notes:
 
-- "Post-doc"
-- "MRes graduate"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

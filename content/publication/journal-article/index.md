@@ -1,7 +1,7 @@
 ---
 title: "An example journal article"
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Robert Ford
 author_notes:
 - "Equal contribution"

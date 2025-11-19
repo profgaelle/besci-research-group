@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Frederic Vallee-Tourangeau
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"systm"'
 categories: []

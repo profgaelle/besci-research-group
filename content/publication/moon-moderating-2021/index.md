@@ -9,7 +9,7 @@ authors:
 - Karis Moon
 - Anine Riege
 - Amélie Gourdon-Kanhukamwe
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2021-06-01'
@@ -19,9 +19,9 @@ draft: false
 
 # Author notes (optional)
 author_notes:
-- "PhD graduate"
-- "Post-doc"
-- "MRes graduate"
+# - "PhD graduate"
+# - "Post-doc"
+# - "MRes graduate"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

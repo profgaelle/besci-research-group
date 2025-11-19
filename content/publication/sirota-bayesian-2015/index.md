@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Miroslav Sirota
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Frédéric Vallée-Tourangeau
 - Marie Juanchich
 tags: []
@@ -22,7 +22,7 @@ author_notes:
 - 
 - 
 - 
-- "PhD graduate"
+# - "PhD graduate"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

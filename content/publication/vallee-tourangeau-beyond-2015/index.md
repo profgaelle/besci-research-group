@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Beyond getting the numbers right: what does it mean to be a \"successful\"
+title: 'Beyond getting the numbers right: what does it mean to be a successful
   Bayesian reasoner?'
 subtitle: ''
 summary: ''

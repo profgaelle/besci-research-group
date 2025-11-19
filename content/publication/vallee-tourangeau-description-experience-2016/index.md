@@ -5,7 +5,7 @@ title: The Description-Experience Gap in Risky Choice Framing.
 subtitle: ''
 summary: ''
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Frédéric Vallée-Tourangeau
 - Madhuri Ramasubramanian
 tags: []
@@ -19,7 +19,7 @@ draft: false
 author_notes:
 - 
 - 
-- "MSc graduate"
+# # - "MSc graduate"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

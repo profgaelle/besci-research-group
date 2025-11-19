@@ -19,7 +19,7 @@ draft: false
 
 # Author notes (optional)
 author_notes:
-- "MRes Graduate"
+# - "MRes Graduate"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

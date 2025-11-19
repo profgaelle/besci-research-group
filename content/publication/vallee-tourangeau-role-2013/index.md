@@ -6,7 +6,7 @@ title: The role of circadian variations and socially distributed thinking in bel
 subtitle: ''
 summary: ''
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - M. Khan
 - F. Vallée-Tourangeau
 tags: []

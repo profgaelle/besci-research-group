@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Frédéric Vallée-Tourangeau
 - Sune, P. P. Steffensen
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Angeliki Makri
 tags: []
 categories: []

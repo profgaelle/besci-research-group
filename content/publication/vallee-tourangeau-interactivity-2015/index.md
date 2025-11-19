@@ -5,7 +5,7 @@ title: Interactivity fosters Bayesian reasoning without instruction.
 subtitle: ''
 summary: ''
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Marlène Abadie
 - Frédéric Vallée-Tourangeau
 tags:
@@ -24,7 +24,7 @@ draft: false
 # Author notes (optional)
 author_notes:
 - 
-- "MRes graduate"
+# - "MRes graduate"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

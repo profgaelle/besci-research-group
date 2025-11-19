@@ -1,13 +1,18 @@
 ---
 # Display name
 title: Gaëlle Vallée-Tourangeau
+slug: gaelle-vallee-tourangeau
 
 # Full Name (for SEO)
-first_name: Gaelle
-last_name: Vallee-Tourangeau
+first_name: Gaëlle
+last_name: Vallée-Tourangeau
 
 # Is this the primary user of the site?
 superuser: true
+
+# Username (this should match the folder name)
+authors:
+  - gaelle-vallee-tourangeau
 
 # Role/position
 role: Professor of Behavioural Science

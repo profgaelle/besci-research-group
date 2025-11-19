@@ -2,7 +2,7 @@
 title: "An example preprint / working paper"
 draft: true
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
