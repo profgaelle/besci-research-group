@@ -13,7 +13,7 @@ authors:
 - Meyer, C.
 - Chadborn, T.
 - Sirota, M.
-- Vallee-Tourangeau, G.
+- Gaelle Vallee-Tourangeau
 - Holford, D.
 - Wood, R.
 tags: []
