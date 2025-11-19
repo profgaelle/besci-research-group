@@ -4,18 +4,19 @@ title: "COVID-19 Recovery: Building Future Pandemic Preparedness and Understandi
 subtitle: ''
 summary: ''
 authors:
-- Juanchich, M.
-- Sayer, H.
-- Oakley, C.
-- Goffe, L.
-- Booker, C.
-- Bruine de Bruin, W.
-- Meyer, C.
-- Chadborn, T.
-- Sirota, M.
+- Marie Juanchich
+- Hazel Sayer
+- Claire Oakley
+- Louis Goffe
+- Cara Booker
+- Wandi Bruine de Bruin
+- Carly Meyer
+- Tim Chadborn
+- Miroslav Sirota
 - Gaelle Vallee-Tourangeau
-- Holford, D.
-- Wood, R.
+- Dawn Holford
+- Reed Wood
+
 tags: []
 categories: []
 date: '2022-01-01'
