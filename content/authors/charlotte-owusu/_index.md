@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: MSc in OOccupational and Business Psychology
+    - course: MSc in Occupational and Business Psychology
       institution: Kingston University
       year: 2026
     - course: BSc in Psychology
@@ -62,7 +62,4 @@ user_groups:
   - Researchers
 ---
 
-I am an MSc in Occupational and Business Psychology student at Kingston Business School. I completed my BSc in Psychology at Edge Hill University, where I first developed an
-interest in the application of psychology in the workplace. I have worked as a research assistant for projects on social identity and synchronisation using virtual reality (VR). My undergraduate dissertation explored the perception of trustworthiness in different accents. I foumd this interesting and felt it could be applied to research in the 
-workplace. My research interests include organisational identity, organisational change and how this affects creativity, innovation and pro-social behaviours in the 
-workplace. I have experience working in research and administration, while also taking part in volunteering and fundraising initiatives.
+I am an MSc in Occupational and Business Psychology student at Kingston Business School. I completed my BSc in Psychology at Edge Hill University, where I first developed an interest in the application of psychology in the workplace. I have worked as a research assistant for projects on social identity and synchronisation using virtual reality (VR). My undergraduate dissertation explored the perception of trustworthiness in different accents. I found this interesting and felt it could be applied to research in the workplace. My research interests include organisational identity, organisational change and how this affects creativity, innovation and pro-social behaviours in the workplace. I have experience working in research and administration, while also taking part in volunteering and fundraising initiatives.
