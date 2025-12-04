@@ -41,19 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:g.vallee-tourangeau@kingston.ac.uk'
-  - icon: bookmark
-    icon_pack: fas
-    link: https://besciartist.substack.com
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=G3o05zgAAAAJ
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/gaelle.artist
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/profgaelle
+    link: 'mailto:c.mulrooney@kingston.ac.uk'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
