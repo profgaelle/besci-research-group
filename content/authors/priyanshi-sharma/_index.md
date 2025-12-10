@@ -45,6 +45,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:P.Sharma@kingston.ac.uk'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/priyanshi-sharma-b55644202
+
   # - icon: bookmark
   #   icon_pack: fas
   #   link: https://besciartist.substack.com
@@ -53,7 +57,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=G3o05zgAAAAJ
   # - icon: instagram
   #   icon_pack: fab
-  #   link: www.linkedin.com/in/priyanshi-sharma-b55644202
+  #   link: 
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/profgaelle
