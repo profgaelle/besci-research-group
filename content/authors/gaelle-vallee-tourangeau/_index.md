@@ -53,6 +53,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:g.vallee-tourangeau@kingston.ac.uk'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/profgaelle/
   - icon: bookmark
     icon_pack: fas
     link: https://besciartist.substack.com
