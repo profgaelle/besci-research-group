@@ -64,7 +64,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=G3o05zgAAAAJ
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/gaelle.artist
+    link: https://instagram.com/gaelle.artstudio
   - icon: github
     icon_pack: fab
     link: https://github.com/profgaelle
