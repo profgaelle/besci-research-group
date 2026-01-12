@@ -1,5 +1,5 @@
 ---
-title: PhD Studentships Available: Behavioural Science of Creativity
+title: PhD Studentships - Behavioural Science of Creativity
 date: 2026-01-12
 image:
   focal_point: 'bottom'
