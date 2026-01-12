@@ -8,10 +8,10 @@ draft: false
 
 Kingston University is offering 15 fully-funded PhD studentships. I am inviting applications from prospective doctoral candidates interested in exploring creativity through behavioural science methods, and will personally mentor up to three candidates to develop competitive proposals.
 
-<!--more-->
-
 **Application deadline for mentoring: 31 January 2026**  
 **University competition deadline: 4 March 2026**
+
+<!--more-->
 
 ## A New Research Direction
 
