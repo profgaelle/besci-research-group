@@ -20,7 +20,7 @@ role: PhD Researcher
 # Organizations/Affiliations
 organizations:
   - name: Kingston University
-    url: ''
+    url: 'https://researchinnovation.kingston.ac.uk/en/persons/maryam-irekeola-3/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research explores CEO psychology, corporate sustainability decision-making, and behavioural change in organisational and technological contexts.
@@ -50,7 +50,7 @@ education:
 social:
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0003-1080-4443
+    link: https://orcid.org/0009-0005-0584-7483
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/maryamirekeola/
