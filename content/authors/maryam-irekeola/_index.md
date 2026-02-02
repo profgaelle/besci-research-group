@@ -1,22 +1,21 @@
 ---
-draft: true
 # Display name
-title: Gaëlle Vallée-Tourangeau
-slug: gaelle-vallee-tourangeau
+title: Maryam Irekeola
+slug: maryam-irekeola
 
 # Full Name (for SEO)
-first_name: Gaëlle
-last_name: Vallée-Tourangeau
+first_name: Maryam
+last_name: Irekeola
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - gaelle-vallee-tourangeau
+  - maryam-irekeola
 
 # Role/position
-role: Professor of Behavioural Science
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -24,24 +23,25 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research explores creative cognition, sustainable decision-making, and behavioural change in creative, organisational and health contexts.
+bio: My research explores CEO psychology, corporate sustainability decision-making, and behavioural change in organisational and technological contexts.
 
 interests:
-  - Creative Cognition & Human-AI Collaboration
-  - Decision-Making & Behavioural Science
-  - Organisational Creativity & Behaviour Change
+  - Behavioural Science & Decision Making (Human-centered) 
+  - Corporate Sustainability & Leadership Behaviour
+  - Behaviour change in organisational and Technological Contexts
+  - Inclusive & Socially Impactful Research, with a Focus on Underrepresented Voices
 
 education:
   courses:
-    - course: PhD in Psychology
-      institution: University of Hertfordshire
-      year: 2004
-    - course: MSc in Experimental Social Psychology
-      institution: Université Paris Nanterre
-      year: 1998
-    - course: BSc in Psychology
-      institution: Université Paris Nanterre
-      year: 1997
+    - course: PhD 
+      institution: Kingston University 
+      year: in progress
+    - course: MSc in User Experience Design
+      institution: Kingston University
+      year: 2024
+    - course: BSc in Hospitality and Tourism
+      institution: FUNAAB, Nigeria
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,24 +51,16 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-1080-4443
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:g.vallee-tourangeau@kingston.ac.uk'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/profgaelle/
-  - icon: bookmark
-    icon_pack: fas
-    link: https://besciartist.substack.com
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=G3o05zgAAAAJ
+    link: https://www.linkedin.com/in/maryamirekeola/
+  - icon: tiktok
+    icon_pack: fab
+    link: https://tiktok.com/@insightspace.co
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/gaelle.artstudio
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/profgaelle
+    link: https://instagram.com/insightspace.co
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -87,8 +79,8 @@ user_groups:
   - Researchers
 ---
 
-I am Professor of Behavioural Science at Kingston Business School, where I led research and enterprise strategy (2019–2025) and served as Town House Fellow (2023–2024). I am a member of the Behaviour, Business and Policy Institute at Kingston University and I lead the BeSCi research group, exploring behavioural insights, decision-making, and creative cognition.
+I am PhD Researcher at Kingston Business School, where I am exploring how CEO psychology shapes corporate sustainability decisions, the sustainability impacts of emerging technologies like 6G, and behaviour change across organisational, technological, and creative contexts.
 
-My research investigates how people make decisions, solve problems, and regulate motivation—especially in creative, organisational, sustainability, and healthcare contexts. I’ve published over 60 peer-reviewed articles and received funding from the Wellcome Trust, Leverhulme Trust, Sanofi-Pasteur, and others.
+I come from a UX background, which means I am fascinated by human centred design, decision making, and how behavioural insights can create positive, socially impactful change.
 
-I’ve served as President of the European Association for Decision Making and contribute as Associate Editor for the European Review of Applied Psychology and currently serving as guest editor for AI & Society. My work has been featured in The New York Times, BMJ, France Inter, and LSE Business Review, and I regularly consult for organisations including  PromoVeritas, Quadrangle, and Sanofi-Pasteur.
+I am passionate about amplifying underrepresented voices and studying systems that promote inclusion and equity.
