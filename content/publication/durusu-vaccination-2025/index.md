@@ -63,7 +63,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'durusu-2025.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
