@@ -1,10 +1,10 @@
 ---
-title: Gaelle Vallee-Tourangeau Presents at EGPROC 2026
+title: Gaëlle Vallée-Tourangeau Presents at EGPROC 2026
 date: 2026-07-16
 draft: false
 ---
 
-Gaelle Vallee-Tourangeau presented "Tracking Emotion in Motion: A Process-tracing Approach to Facial Expression Data During Narrative Film Viewing" at EGPROC 2026, the European Group of Process Tracing Studies conference, held 15-17 July 2026 at the University of Warwick.
+Gaëlle Vallée-Tourangeau presented "Tracking Emotion in Motion: A Process-tracing Approach to Facial Expression Data During Narrative Film Viewing" at EGPROC 2026, the European Group of Process Tracing Studies conference, held 15-17 July 2026 at the University of Warwick.
 
 <!--more-->
 
