@@ -23,8 +23,8 @@ publishDate: "2026-08-23T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Psychology: Health and Well-Being*
-publication_short: In *Appl Psychol Health Well-Being*
+publication: 'In *Applied Psychology: Health and Well-Being*'
+publication_short: 'In *Appl Psychol Health Well-Being*'
 
 abstract: "Vaccine hesitancy is widespread, and developing effective communication strategies that encourage hesitant individuals to choose vaccination is essential. This pre-registered research aimed to examine associations among moral obligation, autonomous motivation, vaccination intentions and reactance, and to test messages highlighting moral obligation and autonomy support. In Study 1, participants who had not received a Covid-19 vaccine (N = 1036) completed measures of autonomous motivation, moral obligation, reactance, intentions to vaccinate and vaccine hesitancy. Autonomous motivation and moral obligation emerged as strong independent predictors of lower reactance, lower hesitancy and greater vaccination intentions. In Study 2 (N = 429), the participants received a vaccination-promoting message that highlighted moral obligation versus personal protection and used autonomy supportive versus controlling language. Messages with autonomy-supportive language and highlighting personal protection elicited lower reactance and greater perceived legitimacy compared to messages with controlling language and highlighting moral obligation. All messages elicited greater reactance and lower perceived legitimacy compared to an information-only message, and there were no effects of message type on vaccination intentions or vaccine hesitancy. The research has implications for the design of communications encouraging vaccination in hesitant individuals and suggests caution should be taken when developing messages to encourage vaccination in hesitant individuals."
 
