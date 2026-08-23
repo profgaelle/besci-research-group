@@ -1,10 +1,10 @@
 ---
-title: Gaelle Vallee-Tourangeau Gives Invited Seminar at the University of Leeds Centre for Decision Research
+title: Gaëlle Vallée-Tourangeau Gives Invited Seminar at the University of Leeds Centre for Decision Research
 date: 2026-03-04
 draft: false
 ---
 
-Gaelle Vallee-Tourangeau delivered an invited seminar, "Can a video move you to make a prosocial decision?", to the Centre for Decision Research at Leeds University Business School on 4 March 2026.
+Gaëlle Vallée-Tourangeau delivered an invited seminar, "Can a video move you to make a prosocial decision?", to the Centre for Decision Research at Leeds University Business School on 4 March 2026.
 
 <!--more-->
 
