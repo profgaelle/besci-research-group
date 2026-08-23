@@ -1,10 +1,10 @@
 ---
-title: Gaelle Vallee-Tourangeau Presents at the 6th International Conference of Possibility Studies
+title: Gaëlle Vallée-Tourangeau Presents at the 6th International Conference of Possibility Studies
 date: 2026-07-01
 draft: false
 ---
 
-Gaelle Vallee-Tourangeau presented "Can a film move you to make a prosocial decision?" at the 6th International Conference of Possibility Studies, Waves of Possibility, at the University of Sussex.
+Gaëlle Vallée-Tourangeau presented "Can a film move you to make a prosocial decision?" at the 6th International Conference of Possibility Studies, Waves of Possibility, at the University of Sussex.
 
 <!--more-->
 
