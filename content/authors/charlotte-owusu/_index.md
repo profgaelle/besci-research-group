@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Charlotte
+title: Charlotte Owusu
 
 # Full Name (for SEO)
 first_name: Charlotte
