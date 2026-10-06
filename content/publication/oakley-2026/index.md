@@ -1,8 +1,8 @@
 ---
 title: "Optimizing Web Links Used in Digital Vaccination Invitations to Raise Trust and Booking Intention: 3 Online Randomized Controlled Trials"
 authors:
-- C. M. Oakley
-- H. Sayer
+- Claire M. Oakley
+- Hazel Sayer
 - Dawn Holford
 - Wändi Bruine de Bruin
 - Gaelle Vallee-Tourangeau
