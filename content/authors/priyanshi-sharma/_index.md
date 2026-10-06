@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:P.Sharma@kingston.ac.uk'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:P.Sharma@kingston.ac.uk'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/priyanshi-sharma-b55644202
@@ -63,9 +63,9 @@ social:
   #   link: https://github.com/profgaelle
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/p-sharma-cv.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/p-sharma-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -76,11 +76,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
-
-I am an Msc Occupational and Business Psychology student at Kingston University. I hold an MSc in Clinical Psychology, where in my dissertation I investigated the relationship  between impostor syndrome and work efficiency by exploring the moderating role of social support among IT employees. Through this project, I developed a deep interest in employee and organisational well-being. 
-
-My research interests include organisational behaviour, decision-making, motivation, and workplace wellbeing. I have published my dissertation in the International Journal for Multidisciplinary Research and previously worked as a Research Assistant at India’s Defence Research and Development Organisation (DRDO), where I conducted qualitative research.
-
-I am focused on developing strong applied research skills and contributing to evidence-based behavioural and organisational psychology by informing real-world interventions and decision-making.
