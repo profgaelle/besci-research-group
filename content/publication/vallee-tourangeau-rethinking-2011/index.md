@@ -5,7 +5,7 @@ title: Rethinking the Role of Intuition in the Conjunction Fallacy
 subtitle: ''
 summary: ''
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2011-01-01'

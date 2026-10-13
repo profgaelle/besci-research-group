@@ -11,7 +11,7 @@ authors:
 - Paul Christiansen
 - Sara Waring
 - Nicola Power
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"heuri"'
 categories: []

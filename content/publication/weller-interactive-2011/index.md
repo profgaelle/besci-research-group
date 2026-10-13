@@ -7,7 +7,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Anna Weller
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags:
 - '"systm"'

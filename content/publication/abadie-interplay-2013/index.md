@@ -8,7 +8,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Marlène Abadie
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Laurent Waroquier
 - Frédéric Vallée-Tourangeau
 tags: []

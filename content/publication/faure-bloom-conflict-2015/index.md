@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jenny Faure-Bloom
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - S. Mannan
 tags: []
 categories: []

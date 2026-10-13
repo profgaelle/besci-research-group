@@ -9,7 +9,7 @@ published_as: Gaëlle Villejoubert
 authors:
 - Valérie Le Floch
 - Denis Hilton
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2005-01-01'

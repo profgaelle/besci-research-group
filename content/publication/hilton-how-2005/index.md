@@ -8,7 +8,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Denis Hilton
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 - Jean-François Bonnefon
 tags:
 - '"expprag"'

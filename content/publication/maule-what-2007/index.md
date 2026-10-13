@@ -7,7 +7,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - John Maule
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"heuri"'
 categories: []

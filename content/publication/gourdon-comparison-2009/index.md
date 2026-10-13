@@ -8,7 +8,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Amélie Gourdon
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2009-01-01'

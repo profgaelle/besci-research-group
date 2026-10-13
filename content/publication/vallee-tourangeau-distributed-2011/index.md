@@ -8,7 +8,7 @@ published_as: Gaëlle Villejoubert
 authors:
 - Frédéric Vallée-Tourangeau
 - Anna Weller
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2011-01-01'

@@ -7,7 +7,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Marie Juanchich
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2009-01-01'

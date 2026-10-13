@@ -8,7 +8,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Denis J. Hilton
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2001-01-01'

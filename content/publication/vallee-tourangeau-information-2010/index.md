@@ -7,7 +7,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Frédéric Vallée-Tourangeau
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags: []
 categories: []
 date: '2010-01-01'

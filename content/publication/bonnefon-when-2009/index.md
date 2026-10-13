@@ -8,7 +8,7 @@ published_as: Gaëlle Villejoubert
 authors:
 - Jean-François Bonnefon
 - Aidan Feeney
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"expprag"'
 categories: []

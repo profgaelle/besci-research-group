@@ -8,7 +8,7 @@ published_as: Gaëlle Villejoubert
 authors:
 - Marie Juanchich
 - Karl Halvor Teigen
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"expprag"'
 categories: []

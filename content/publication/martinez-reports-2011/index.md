@@ -10,7 +10,7 @@ authors:
 - Frédéric Martinez
 - Valérie Le Floch
 - Bernard Gaffié
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"Sociology"'
 - '"Psychiatry"'

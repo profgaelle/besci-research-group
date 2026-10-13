@@ -9,7 +9,7 @@ authors:
 - Marie Juanchich
 - Miroslav Sirota
 - Tzur M. Karelitz
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"expprag"'
 categories: []

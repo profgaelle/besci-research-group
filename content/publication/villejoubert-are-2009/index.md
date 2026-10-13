@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"heuri"'
 categories: []

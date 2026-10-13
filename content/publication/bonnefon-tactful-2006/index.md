@@ -8,7 +8,7 @@ summary: ''
 published_as: Gaëlle Villejoubert
 authors:
 - Jean-François Bonnefon
-- Gaëlle Vallée-Tourangeau
+- Gaelle Vallee-Tourangeau
 tags:
 - '"expprag"'
 categories: []
