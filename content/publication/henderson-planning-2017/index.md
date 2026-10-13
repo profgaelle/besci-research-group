@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Emma Henderson
-- G. Vallée-Tourangeau
+- Gaëlle Vallée-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags: []
 categories: []

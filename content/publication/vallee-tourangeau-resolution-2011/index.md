@@ -4,9 +4,10 @@
 title: La résolution de problème naturalisée
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Frédéric Vallée-Tourangeau
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"systm"'
 categories: []

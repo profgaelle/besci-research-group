@@ -4,10 +4,11 @@
 title: Is guilt ‘likely’ or ‘not certain’?
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Marie Juanchich
 - Karl Halvor Teigen
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"expprag"'
 categories: []

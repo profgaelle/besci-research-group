@@ -5,9 +5,10 @@ title: "Prise de décision au sein de la médecine: biais, erreurs et “remède
   \ in medicine: biases, errors and 'remedies']"
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Denis J. Hilton
-- Gaelle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2001-01-01'

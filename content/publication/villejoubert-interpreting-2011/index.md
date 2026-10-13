@@ -5,8 +5,9 @@ title: 'Interpreting claims in offender profiles: The role of probability phrase
   base-rates, and perceived dangerousness'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Louise Almond
 - Laurence Alison
 tags: []

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Gaelle Vallee-Tourangeau
 - Evy Sakellariou
-- Fanny Szigetvari
+- Fanni Szigetvari
 categories: []
 date: '2023-01-01'
 lastmod: 2021-11-21T10:48:17Z

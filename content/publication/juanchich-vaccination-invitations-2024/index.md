@@ -9,7 +9,7 @@ authors:
 - Marie Juanchich
 - Claire M. Oakley
 - Hazel Sayer
-- Dawn Liu Holford
+- Dawn Holford
 - Wändi Bruine de Bruin
 - Cara Booker
 - Tim Chadborn

@@ -5,9 +5,10 @@ title: A comparison of children and adults’ judgments and decisions based on v
   uncertainty statements
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Amélie Gourdon
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2009-01-01'

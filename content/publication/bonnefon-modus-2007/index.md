@@ -5,9 +5,10 @@ title: 'Modus Tollens, Modus Shmollens: Contrapositive reasoning and the pragmat
   of negation'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Jean-François Bonnefon
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"expprag"'
 categories: []

@@ -4,9 +4,10 @@
 title: How do speakers choose uncertainty phrases to express guilt probabilities?
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Marie Juanchich
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2009-01-01'

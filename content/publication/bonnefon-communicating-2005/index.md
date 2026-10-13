@@ -5,9 +5,10 @@ title: 'Communicating Likelihood and managing face: Can we say it is probable wh
   we know it to be certain?'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Jean-François Bonnefon
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2005-01-01'

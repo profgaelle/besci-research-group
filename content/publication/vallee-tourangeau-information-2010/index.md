@@ -4,9 +4,10 @@
 title: Information relevance in pseudodiagnostic reasoning
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Frédéric Vallée-Tourangeau
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2010-01-01'

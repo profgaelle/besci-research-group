@@ -4,11 +4,12 @@
 title: Can membership-functions capture the directionality of verbal probabilities?
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Marie Juanchich
 - Miroslav Sirota
 - Tzur M. Karelitz
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"expprag"'
 categories: []

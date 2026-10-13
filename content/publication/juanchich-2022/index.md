@@ -6,10 +6,10 @@ summary: ''
 authors:
 - Marie Juanchich
 - Hazel Sayer
-- Claire Oakley
+- Claire M. Oakley
 - Louis Goffe
 - Cara Booker
-- Wandi Bruine de Bruin
+- Wändi Bruine de Bruin
 - Carly Meyer
 - Tim Chadborn
 - Miroslav Sirota

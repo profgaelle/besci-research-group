@@ -4,13 +4,14 @@
 title: When do we Believe Experts? The Power of the Unorthodox View
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Laurence Alison
 - Louise Almond
 - Paul Christiansen
 - Sara Waring
 - Nicola Power
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"heuri"'
 categories: []

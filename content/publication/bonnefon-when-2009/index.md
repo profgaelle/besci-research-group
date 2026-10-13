@@ -4,10 +4,11 @@
 title: 'When some is actually all: Scalar inferences in face-threatening contexts'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Jean-François Bonnefon
 - Aidan Feeney
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"expprag"'
 categories: []

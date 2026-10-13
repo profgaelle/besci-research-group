@@ -9,7 +9,7 @@ authors:
 - Gaelle Vallee-Tourangeau
 - Miroslav Sirota
 - Marie Juanchich
-- Frederic Vallee-Tourangeau
+- Frédéric Vallée-Tourangeau
 tags: []
 categories: []
 date: '2015-01-01'

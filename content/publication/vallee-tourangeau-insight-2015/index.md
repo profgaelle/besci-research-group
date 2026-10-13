@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Frédéric Vallée-Tourangeau
-- Sune, P. P. Steffensen
+- Sune Vork Steffensen
 - Gaelle Vallee-Tourangeau
 - Angeliki Makri
 tags: []

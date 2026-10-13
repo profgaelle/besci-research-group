@@ -5,8 +5,9 @@ title: 'Constructing preferences in the physical world: a distributed-cognition 
   on preferences and risky choices'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags:
 - '"systm"'

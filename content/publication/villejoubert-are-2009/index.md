@@ -5,8 +5,9 @@ title: Are representativeness judgments automatic and rapid? The effect of time 
   on the conjunction fallacy
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"heuri"'
 categories: []

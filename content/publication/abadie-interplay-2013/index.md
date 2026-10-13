@@ -5,9 +5,10 @@ title: The interplay between presentation material and decision mode for complex
   preferences
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Marlène Abadie
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Laurent Waroquier
 - Frédéric Vallée-Tourangeau
 tags: []

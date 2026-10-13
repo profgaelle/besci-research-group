@@ -5,10 +5,11 @@ title: 'Moves in the world are faster than moves in the head: Interactivity in t
   river crossing problem'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Frédéric Vallée-Tourangeau
-- L. G. Guthrie
-- Gaëlle Villejoubert
+- Lisa G. Guthrie
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2013-01-01'

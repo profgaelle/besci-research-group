@@ -4,8 +4,9 @@
 title: Relevance-driven information search in “pseudodiagnostic” reasoning
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags:
 - '"heuri"'

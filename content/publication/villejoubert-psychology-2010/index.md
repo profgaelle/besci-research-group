@@ -4,8 +4,9 @@
 title: The psychology of risk management
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags: []
 categories: []

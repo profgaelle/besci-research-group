@@ -5,10 +5,11 @@ title: Procédures de ‘debiasing’ dans le jugement et la décision, en milie
   [Judgment and Decision-making debiasing procedures in professional settings]
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Valérie Le Floch
 - Denis Hilton
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2005-01-01'

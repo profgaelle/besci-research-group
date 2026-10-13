@@ -5,9 +5,10 @@ title: 'Tactful or Doubtful?: Expectations of Politeness Explain the Severity Bi
   in the Interpretation of Probability Phrases'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- J.-F. Bonnefon
-- G. Villejoubert
+- Jean-François Bonnefon
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"expprag"'
 categories: []

@@ -6,9 +6,10 @@ title: Il y a sans doute en fonction des contextes des explications qui paraisse
   explanations that seem more \"plausible\" than others...]
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Valérie Le Floch
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2013-01-01'

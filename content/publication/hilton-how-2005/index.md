@@ -5,9 +5,10 @@ title: 'How to do things with logical expressions: Creating collective value thr
   co-ordinated reasoning'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Denis Hilton
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Jean-François Bonnefon
 tags:
 - '"expprag"'

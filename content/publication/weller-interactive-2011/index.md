@@ -4,9 +4,10 @@
 title: Interactive insight problem solving
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Anna Weller
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Frédéric Vallée-Tourangeau
 tags:
 - '"systm"'

@@ -5,11 +5,12 @@ title: 'Reports of Wins and Risk Taking: An Investigation of the Mediating Effec
   of the Illusion of Control'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Frédéric Martinez
 - Valérie Le Floch
 - Bernard Gaffié
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"Sociology"'
 - '"Psychiatry"'

@@ -4,10 +4,11 @@
 title: Distributed cognition and insight problem solving
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - Frédéric Vallée-Tourangeau
-- A. Weller
-- Gaëlle Villejoubert
+- Anna Weller
+- Gaëlle Vallée-Tourangeau
 tags: []
 categories: []
 date: '2011-01-01'

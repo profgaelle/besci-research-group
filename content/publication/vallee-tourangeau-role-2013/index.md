@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Gaelle Vallee-Tourangeau
 - M. Khan
-- F. Vallée-Tourangeau
+- Frédéric Vallée-Tourangeau
 tags: []
 categories: []
 date: '2013-01-01'

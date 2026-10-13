@@ -5,8 +5,9 @@ title: 'The inverse fallacy: An account of deviations from Bayes’s theorem and
   additivity principle'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - David R. Mandel
 tags:
 - '"heuri"'

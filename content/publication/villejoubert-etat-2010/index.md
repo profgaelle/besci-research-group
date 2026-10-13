@@ -5,8 +5,9 @@ title: 'Etat de l’art et méthodes d’aides à la décision en milieu profess
   and decision-making: Field overview and decision aids methods in professional settings]'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 - Valérie Le Floch
 tags: []
 categories: []

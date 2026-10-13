@@ -4,9 +4,10 @@
 title: 'What lies beneath: Reframing framing effects'
 subtitle: ''
 summary: ''
+published_as: Gaëlle Villejoubert
 authors:
 - John Maule
-- Gaëlle Villejoubert
+- Gaëlle Vallée-Tourangeau
 tags:
 - '"heuri"'
 categories: []

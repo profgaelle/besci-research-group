@@ -5,7 +5,7 @@ title: 'Diagrams, jars, and matchsticks: A systemicist’s toolkit'
 subtitle: ''
 summary: ''
 authors:
-- Frederic Vallee-Tourangeau
+- Frédéric Vallée-Tourangeau
 - Gaelle Vallee-Tourangeau
 tags:
 - '"systm"'
