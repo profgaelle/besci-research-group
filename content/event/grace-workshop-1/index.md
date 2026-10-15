@@ -1,6 +1,6 @@
 ---
 title: 'Developing resilience in the face of uncertainty: what changes, how would we know, what would we see?'
-draft: true
+draft: false
 event: GRACE launch workshop
 event_url: ''
 
