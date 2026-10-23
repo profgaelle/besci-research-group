@@ -10,7 +10,7 @@ last_name: Francis
 superuser: false
 
 # Role/position
-role: Research associate 
+role: Research Associate 
 
 # Organizations/Affiliations
 organizations:
