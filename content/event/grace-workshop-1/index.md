@@ -43,9 +43,9 @@ GRACE (Gauging Resilience in the face of uncertAinty through Creative Engagement
 
 This launch workshop brings researchers from judgment and decision-making, clinical psychology and organisational behaviour together around three questions:
 
-- What changes as people become more able to engage productively with uncertainty?
-- How would we tell that change apart from familiarity, practice or the effect of being observed?
-- What would that change look like in what people do, moment to moment?
+1. What changes as people become more able to engage productively with uncertainty?
+2. What would count as evidence of that change?
+3. How might that change show in people’s observable behaviour?
 
 The workshop takes place online on **Friday 6 November 2026, 15:00 to 17:30 UK time** (16:00 to 18:30 CET, 10:00 to 12:30 US Eastern, 07:00 to 09:30 US Pacific). A link to the event will be sent to registrants before the meeting.
 
@@ -64,10 +64,10 @@ The workshop takes place online on **Friday 6 November 2026, 15:00 to 17:30 UK t
 
 ## Keynote speakers
 
-To be announced.
+- To be announced.
 
 <!-- Add confirmed speakers here, for example:
-- **Name** – Institution
+- **Professor Mark H. Freeston** - Newcastle University, United Kingdom
   Talk title
 -->
 
