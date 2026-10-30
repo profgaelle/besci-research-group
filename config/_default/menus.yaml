@@ -7,6 +7,9 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
+  - name: GRACE
+    url: project/grace
+    weight: 10
   - name: News
     url: post
     weight: 20
