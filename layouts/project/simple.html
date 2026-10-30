@@ -1,0 +1,93 @@
+{{/* Simple one-page project layout. Use with `layout: simple` in a project's front matter.
+     Hero: .Title (wordmark), .Params.longtitle, .Params.lead, .Params.links (name, url, icon_pack, icon), optional hero.svg in the page bundle.
+     Body: .Params.sections (id, nav, title, text, strands, text_after), then .Params.funding. */}}
+{{ define "main" }}
+{{ $p := .Params }}
+<div class="simple-project">
+<style>
+.simple-project{--charcoal:#374151;--blue:#2563EB;--turquoise:#2DD4BF;--coral:#F87171;--yellow:#FBBF24;
+  --ink:var(--charcoal);--muted:#6C757D;--paper:#FFFFFF;--line:#F0F0F0;--alt:#FAFAFA;
+  --cobalt:var(--blue);--marigold:var(--coral);--sage:var(--turquoise);color:var(--ink)}
+body.dark .simple-project{--ink:#E5E7EB;--muted:#A3A9B3;--paper:#1B1F27;--line:rgba(255,255,255,.12);
+  --alt:rgba(255,255,255,.04);--blue:#60A5FA}
+.simple-project h1,.simple-project h2,.simple-project h3{color:var(--ink)}
+.sp-section{padding:90px 0}
+.sp-section:nth-of-type(even){background:var(--alt)}
+.sp-section[id]{scroll-margin-top:80px}
+.sp-hero{padding:70px 0}
+.sp-hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:2.5rem;align-items:center}
+.sp-wordmark{font-family:'Cormorant Garamond',Georgia,serif;font-weight:300!important;font-size:clamp(3rem,7vw,4.6rem)!important;letter-spacing:.08em;line-height:1;margin:0 0 .35em;text-align:left!important}
+.sp-longtitle{font-family:'Cormorant Garamond',Georgia,serif;font-size:1.3rem;line-height:1.45;color:var(--muted);max-width:32ch;margin-bottom:1.2em}
+.sp-longtitle strong{color:var(--ink);font-weight:600}
+.sp-lead{font-size:1.15rem;line-height:1.6;max-width:44ch}
+.sp-links{margin-top:1.2rem}
+.sp-links .btn{margin:0 5px 5px 0}
+.sp-figure{max-width:420px;justify-self:center;width:100%}
+.sp-figure svg{display:block;width:100%;height:auto}
+.trail{stroke-dasharray:640;stroke-dashoffset:640;animation:sp-draw 2.6s ease-out .3s forwards}
+@keyframes sp-draw{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.trail{animation:none;stroke-dashoffset:0}}
+.sp-nav{border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.sp-nav ul{list-style:none;margin:0;padding:.4rem 0;display:flex;flex-wrap:wrap;font-size:.85rem;letter-spacing:.1em;text-transform:uppercase}
+.sp-nav a{display:block;padding:.5rem 1rem .5rem 0;margin-right:1rem;color:var(--ink)}
+.sp-nav a:hover{text-decoration:underline;text-decoration-color:var(--coral)}
+.simple-project h2{margin-top:0}
+.sp-prose{max-width:68ch}
+.sp-prose a,.sp-funding a{text-decoration:underline;text-decoration-color:var(--coral);text-decoration-thickness:1px;text-underline-offset:.2em}
+.sp-strands{display:grid;grid-template-columns:repeat(3,1fr);gap:2rem;margin:1.5rem 0 2rem}
+.sp-strand{border-top:3px solid var(--c);padding-top:1rem}
+.sp-strand h3{margin:0 0 .2em}
+.sp-who{font-size:.9rem;color:var(--muted);margin-bottom:.7em}
+.sp-coral{--c:var(--coral)} .sp-blue{--c:var(--blue)} .sp-turquoise{--c:var(--turquoise)} .sp-yellow{--c:var(--yellow)}
+.sp-funding{padding:2.5rem 0;font-size:.9rem;color:var(--muted);border-top:1px solid var(--line)}
+@media (max-width:860px){.sp-section{padding:56px 0}.sp-hero-grid,.sp-strands{grid-template-columns:1fr}}
+</style>
+
+<section class="sp-section sp-hero">
+  <div class="container sp-hero-grid">
+    <div>
+      <h1 class="sp-wordmark">{{ .Title }}</h1>
+      {{ with $p.longtitle }}<p class="sp-longtitle">{{ . | markdownify }}</p>{{ end }}
+      {{ with $p.lead }}<p class="sp-lead">{{ . | markdownify }}</p>{{ end }}
+      {{ with $p.links }}
+      <div class="sp-links">
+        {{ range . }}<a class="btn btn-outline-primary btn-page-header" href="{{ .url | relURL }}">{{ if .icon }}<i class="{{ .icon_pack | default "fas" }} fa-{{ .icon }} mr-1"></i>{{ end }}{{ .name }}</a>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+    {{ with .Resources.GetMatch "hero.svg" }}<div class="sp-figure" aria-hidden="true">{{ .Content | safeHTML }}</div>{{ end }}
+  </div>
+</section>
+
+{{ with $p.sections }}
+<nav class="container sp-nav" aria-label="On this page"><ul>
+  {{ range . }}{{ if and .id .nav }}<li><a href="#{{ .id }}">{{ .nav }}</a></li>{{ end }}{{ end }}
+</ul></nav>
+{{ end }}
+
+{{ range $p.sections }}
+<section class="sp-section"{{ with .id }} id="{{ . }}"{{ end }}>
+  <div class="container">
+    {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+    {{ with .text }}<div class="sp-prose">{{ . | markdownify }}</div>{{ end }}
+    {{ with .strands }}
+    <div class="sp-strands">
+      {{ range . }}
+      <div class="sp-strand sp-{{ .colour | default "coral" }}">
+        <h3>{{ .title }}</h3>
+        {{ with .who }}<p class="sp-who">{{ . }}</p>{{ end }}
+        {{ with .text }}<p>{{ . | markdownify }}</p>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ with .text_after }}<div class="sp-prose">{{ . | markdownify }}</div>{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ with .Content }}<section class="sp-section"><div class="container sp-prose">{{ . }}</div></section>{{ end }}
+
+{{ with $p.funding }}<div class="container sp-funding"><p>{{ . | markdownify }}</p></div>{{ end }}
+</div>
+{{ end }}
